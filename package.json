@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^4.0.45",
-    "express": "^4.17.1",
-    "redis": "^3.0.2"
+    "dotenv": "8.2.0",
+    "eth-proof": "2.1.4",
+    "ethers": "4.0.45",
+    "express": "4.17.1",
+    "redis": "3.0.2"
   }
 }
